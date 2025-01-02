@@ -1,6 +1,6 @@
 # Zip Naming
-NAME ?= AtomX
-CODENAME ?= lisa
+NAME ?= Phantomhive
+CODENAME ?= Redwood
 VERSION ?= v1.0
 CUSTOM ?= $(shell date "+%H%M")
 
