@@ -1,7 +1,7 @@
 # Zip Naming
-NAME ?= Phantomhive
+NAME ?= Salsa-Kernel
 CODENAME ?= Redwood
-VERSION ?= v1.0
+VERSION ?= v2.0
 CUSTOM ?= $(shell date "+%H%M")
 
 ZIP := $(NAME)-$(CODENAME)$(VERSION)-$(CUSTOM)
