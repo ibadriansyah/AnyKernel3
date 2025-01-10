@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=Phantomhive-Kernel
+kernel.string=Salsa-Kernel 
 do.devicecheck=1
 do.modules=1
 do.systemless=1
