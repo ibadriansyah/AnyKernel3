@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=Risa-Kernel 
+kernel.string=Salsa-Kernel by: Dabskutz 
 do.devicecheck=1
 do.modules=1
 do.systemless=1
@@ -13,7 +13,7 @@ do.cleanuponabort=0
 device.name1=lisa
 device.name2=redwood
 device.name3=redwoodin
-supported.versions=11.0-15.0
+supported.versions=13.0-15.0
 supported.patchlevels=
 supported.vendorpatchlevels=
 '; } # end properties
