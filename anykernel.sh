@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=Salsa-Kernel by: Dabskutz 
+kernel.string=Auldlin-Kernel-5.4 
 do.devicecheck=1
 do.modules=1
 do.systemless=1
