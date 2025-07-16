@@ -1,7 +1,7 @@
 # Zip Naming
-NAME ?= Auldlin-Kernel
+NAME ?= Salsa-Kernel
 CODENAME ?= Redwood
-VERSION ?= v4.0
+VERSION ?= v3.0
 CUSTOM ?= $(shell date "+%H%M")
 
 ZIP := $(NAME)-$(CODENAME)$(VERSION)-$(CUSTOM)
