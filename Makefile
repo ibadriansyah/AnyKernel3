@@ -1,7 +1,7 @@
 # Zip Naming
-NAME ?= Salsa-Kernel
+NAME ?= Affraca
 CODENAME ?= Redwood
-VERSION ?= v3.0
+VERSION ?= v4.0
 CUSTOM ?= $(shell date "+%H%M")
 
 ZIP := $(NAME)-$(CODENAME)$(VERSION)-$(CUSTOM)
