@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=Affraca-Kernel-5.4 
+kernel.string=Salsabila-SM7325-GKI-1
 do.devicecheck=1
 do.modules=1
 do.systemless=1
