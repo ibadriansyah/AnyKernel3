@@ -1,7 +1,7 @@
 # Zip Naming
-NAME ?= Affraca
+NAME ?= Salsabila-SM7325-GKI-1
 CODENAME ?= Redwood
-VERSION ?= v4.0
+VERSION ?= v4.1
 CUSTOM ?= $(shell date "+%H%M")
 
 ZIP := $(NAME)-$(CODENAME)$(VERSION)-$(CUSTOM)
