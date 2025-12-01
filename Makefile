@@ -1,7 +1,7 @@
 # Zip Naming
-NAME ?= Salsabila-SM7325-GKI-1
+NAME ?= Amooo-Kernel
 CODENAME ?= Redwood
-VERSION ?= v4.1
+VERSION ?= v1.0
 CUSTOM ?= $(shell date "+%H%M")
 
 ZIP := $(NAME)-$(CODENAME)$(VERSION)-$(CUSTOM)
