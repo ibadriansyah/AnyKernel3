@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=Salsabila-SM7325-GKI-1
+kernel.string=Amooo-Kernel 5.4
 do.devicecheck=1
 do.modules=1
 do.systemless=1
@@ -13,7 +13,7 @@ do.cleanuponabort=0
 device.name1=lisa
 device.name2=redwood
 device.name3=redwoodin
-supported.versions=13.0-16.0
+supported.versions=12.0-16.0
 supported.patchlevels=
 supported.vendorpatchlevels=
 '; } # end properties
